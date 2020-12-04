@@ -1,0 +1,139 @@
+body{
+    background: linear-gradient(to right, orange, pink);
+}
+.note{
+    color: black;
+    font-size: 18px;
+    text-align: left;
+    font-family: sans-serif;
+}
+h1{
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    background: white;
+}
+a{
+    font-size: 25px;
+    color: black;
+    font-family: sans-serif;
+}
+.grid{
+    background: linear-gradient(to right,#39FF14, #00FFCC);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+}
+.chameleon{
+    border: 3px solid white;
+    border-radius:20%;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    background: aqua;
+}
+.camel{
+    border: 3px solid white;
+    border-radius: 20%;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    background: yellow;
+}
+.cicada{
+    border: 3px solid white;
+    border-radius: 20%;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    background: aqua;
+}
+.teddy{
+    border: 3px solid white;
+    border-radius: 20%;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    background: yellow;
+}
+.panda{
+    border: 3px solid white;
+    border-radius: 20%;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    background: yellow;
+}
+.pigeon{
+    border: 3px solid white;
+    border-radius: 20%;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    background: aqua;
+}
+.panda img{
+    border: 3px solid white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-left: -6.2%;
+    background: pink;
+}
+.chameleon img{
+    border: 3px solid white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-left: -6.2%;
+    background: pink;
+}
+.cicada img{
+    border: 3px solid white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-left: -6.2%;
+    background: pink;
+}
+.camel img{
+    border: 3px solid white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-left: -6.2%;
+    background: pink;
+}
+.teddy img{
+    border: 3px solid white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-left: -6.2%;
+    background: pink;
+}
+.pigeon img{
+    border: 3px solid white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-left: -6.2%;
+    background: pink;
+}
